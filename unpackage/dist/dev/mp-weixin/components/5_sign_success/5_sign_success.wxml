@@ -1,0 +1,1 @@
+<view class="content"><view class="title">提交资料成功</view><view class="summay">您已经提交资料成功，请等待集团审核，点击我的即可查看最新结果</view><button class="btn" type="primary" data-event-opts="{{[['tap',[['backToIndex',['$event']]]]]}}" bindtap="__e">返回首页</button></view>

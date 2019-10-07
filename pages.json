@@ -1,0 +1,60 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "集点管理"
+			}
+		},
+		{
+			"path": "pages/analysis/analysis",
+			"style": {
+				"navigationBarTitleText": "统计分析",
+				"app-plus": {
+					"titleNView":false
+				}
+			}
+		},
+		{
+			"path": "pages/seller_detail/seller_detail",
+			"style": {
+				"navigationBarTitleText": "核销清单"
+			}
+		},
+		
+		
+		{
+			"path": "pages/x_login/x_login",
+			"style": {
+				"navigationBarTitleText": "报名",
+				"app-plus": {
+					"titleNView":false
+				}
+			}
+		},
+		
+		
+		{
+			"path": "pages/x_detail/x_detail",
+			"style": {
+				"navigationBarTitleText": "参演详情"
+			}
+		},
+			
+		
+		{
+			"path": "pages/test/test",
+			"style": {
+				"navigationBarTitleText": "测试"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarBackgroundColor":"#00cc66",
+		"navigationBarTextStyle":"white",
+		"navigationBarTitleText": "uni-app",
+		"backgroundColor": "#ffffff"
+	}
+}

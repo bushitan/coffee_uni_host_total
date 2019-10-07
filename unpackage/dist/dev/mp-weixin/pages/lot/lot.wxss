@@ -1,0 +1,22 @@
+
+.agenda{
+	background-color: #ffffff;
+	padding: 17px 0 30px;
+	width: 750rpx;
+}
+.title{
+	font-size: 11pt;
+	font-weight: bolder;
+	margin: 20px;
+	text-align: center;
+}
+.team{
+	font-size: 11pt;
+	color: #888;	
+	margin-bottom: 10px;
+}
+.footer{
+	text-align: center;
+	color: #999;
+	font-size: 9pt;
+}

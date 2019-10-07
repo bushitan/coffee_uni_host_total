@@ -1,0 +1,1 @@
+<view class="content"><view class="component "><sign-form vue-id="1" content="{{teamInfo}}" data-event-opts="{{[['^submit',[['onClick']]]]}}" bind:submit="__e" bind:__l="__l"></sign-form></view></view>

@@ -1,0 +1,1 @@
+<view class="content" hover-class="click" data-event-opts="{{[['tap',[['click',['$event']]]]]}}" bindtap="__e">{{''+text+''}}</view>

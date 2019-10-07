@@ -1,0 +1,1 @@
+<view><view class="top-line"></view><view class="title">{{title}}</view><time-line vue-id="1" agenda="{{agenda}}" bind:__l="__l"></time-line><view class="footer">以下无信息</view><view class="footer_space"></view></view>

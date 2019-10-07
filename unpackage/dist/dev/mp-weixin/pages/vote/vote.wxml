@@ -1,0 +1,1 @@
+<view><view class="top-line"></view><view class="page"><view style="height:3px;"></view><vote-line vue-id="1" productList="{{productList}}" data-event-opts="{{[['^addLike',[['addLike']]]]}}" bind:addLike="__e" bind:__l="__l"></vote-line></view><view style="height:70px;"></view></view>

@@ -1,0 +1,2 @@
+1、 在data类里加上 long 和lat，让score  prize  share都分享这个数据
+2、 seller中加上  username  password

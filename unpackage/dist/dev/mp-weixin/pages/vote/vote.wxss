@@ -1,0 +1,29 @@
+/* 
+.container{
+	background-color: #888888;
+	height: calc(100vh - 50px );
+}
+.flex{
+	display: flex;
+	justify-content: center;
+}
+ */
+page{
+	background-color:#f9f9f9;
+}
+.uni-product-list{
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.uni-product-title{	font-size: 11pt;}
+.uni-product-price-original{font-size: 9pt;}
+.uni-product{
+	padding: 3px;
+}
+.bg_white{
+	background-color: #FFFFFF;
+	padding: 7px;
+}
+

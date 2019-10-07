@@ -1,0 +1,116 @@
+
+.container{
+	 /* padding: 15px; */
+}
+page{
+	 background-color:#f9f9f9;
+}
+.action-row {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+}
+.action-row navigator {
+        color: #007aff;
+        padding: 0 20rpx;
+}
+.oauth-row {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+}
+.oauth-image {
+        width: 100rpx;
+        height: 100rpx;
+        border: 1rpx solid #dddddd;
+        border-radius: 100rpx;
+        margin: 0 40rpx;
+        background-color: #ffffff;
+}
+.oauth-image image {
+        width: 60rpx;
+        height: 60rpx;
+        margin: 20rpx;
+}
+ /****登陆窗口*****/
+.content_login{
+		padding: 15px;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+}
+.image-section-right {
+		margin-top: 10rpx;
+		margin-left: 10rpx;
+		margin-rigth: 10rpx;
+		width: 225rpx;
+		/* height: 146upx; */
+}
+.detail {
+		/* margin-left: 10px; */
+		font-size: 9pt;
+		background-color: #fff;
+		color: #999;
+		width: 100%;
+		padding: 15px;
+		border-radius: 5px;
+		/* bordr: $sys-color-base 1px solid; */
+		border:  $sys-color-base 1px solid;
+}
+.title{
+		font-size: 11pt;
+		color: #000;
+		/* line-height: 25px; */
+		margin-left: 3px;
+		margin-bottom: 10px;
+}
+.icon{
+		width: 20px;height:20px;
+}
+.des{
+		display: inline-block;
+}
+.summary{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-align: center;
+		-webkit-align-items: center;
+		    -ms-flex-align: center;
+		        align-items: center;
+		background-color: #eee; 
+		margin-bottom: 10px;
+		padding: 10px;
+}
+.name{ width: 50px; -webkit-flex-basis: 50px; -ms-flex-preferred-size: 50px; flex-basis: 50px;}
+.input_content{width: 100%;}
+.input{font-size: 11pt;
+}
+.input_pla{font-size: 11pt;}
+.footer{font-size: 9pt; color: #999;}

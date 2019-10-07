@@ -1,0 +1,1 @@
+<view class="container"><view style="height:40px;"></view><view class="component "><sign-success vue-id="1" bind:__l="__l"></sign-success></view></view>
